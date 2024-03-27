@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "publishConfig": {
-    "access": "public"
+  "access": "public"
   },
   "bin" : "index.js",
   "scripts": {
